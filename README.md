@@ -1,7 +1,10 @@
 # K-clustering
 
 This repository contains the k-clustering algorithm implemented in matlab and in python. 
-The files in this repository are
+
+The files in this repository are-
+
+
       k_means.m  - matlab implementation of the k-clustering algorithm.
       
       k_means_with_lab.m - This implementation also uses the LAB color format in clustering, so as to avoid
